@@ -1,4 +1,4 @@
-// Find out greater value among two integer value X AND Y Using (IF ELSE)
+// Find out greater value among two integer value X and Y Using (IF ELSE)
 
 #include<stdio.h>
 #include<conio.h>
